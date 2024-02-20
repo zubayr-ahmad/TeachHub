@@ -1,0 +1,46 @@
+Python Fundamentals
+01. Print, Input, Comments, Variables, Data types
+02. Operators, Type Casting
+03. Conditions
+04. Loops, break and continue
+05. Functions
+06. Lists
+07. Tuple, Set
+08. Dictionary
+09. Type Casting 02, Nested Sequences
+10. Strings
+11. Files Handling (text)
+12. File Handling CSV, Error Handling
+13. Miscelanous 01 (Map, filter, reduce, lambda, *args, **kwargs)
+14. Time and dates module, higher order functions
+15. Regular expressions
+
+Python Data Analysis Libraries
+01. Numpy 01
+02. Numpy 02
+03. Pandas 01
+04. Pandas 02
+05. Matplotlib
+06. Seaborn 01
+07. Seaborn 02
+
+Optional Object Oriented programming
+01. Basic classes, methods and attributes
+02. Nested classes, modules and libraries.
+
+MySQL Database
+01. Creating Database and tables, Data types
+02. Insert, Read, Update, Delete
+03. Select specific columns form single and multiple tables, 
+filter data using where clause and aliases.
+04. Different type of clauses (order by, limit, and, or, not, like, between) 
+05. Primary and Foriegn Keys, wild cards
+06. Joins (inner, left, right, outer)
+07. Aggregate functions (min, max, count, sum)
+08. Group by and having clauses
+09. Sub queries and their use cases.
+10. Views, indexes and cases
+11. Functions, Stored Proceduers
+12. Triggers and Events
+13. Connecting MySQL with Python
+14. Passing data from files to database and vice versa
