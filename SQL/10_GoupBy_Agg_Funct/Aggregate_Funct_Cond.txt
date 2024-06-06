@@ -1,4 +1,5 @@
 Chat link: https://chatgpt.com/share/726d7d28-f658-4991-9abc-11f82a95a665
+The chat contains group by, its conditions and all the conditions and rules for aggregate functions.
 
 In MySQL, you can use aggregate functions without a `GROUP BY` clause in specific scenarios where the function operates over the entire result set. Here are the scenarios and conditions under which aggregate functions can be used without `GROUP BY`, along with explanations of when they will work or throw an error:
 
