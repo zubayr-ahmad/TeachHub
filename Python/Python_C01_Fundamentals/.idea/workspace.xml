@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a75a5515-61f1-45a1-927f-57564ab0f870" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/24_List_Comprehensions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_dictionary_comprehension.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_C02_OOP/09_Polymorphism.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_C02_OOP/09_Polymorphism_types.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_C02_OOP/10_Association.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_C02_OOP/10_Association.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_C02_OOP/11_Abstraction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_Set.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/12_Set.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_C02_OOP/03_Magic_Methods.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_C02_OOP/03_Magic_Methods.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a75a5515-61f1-45a1-927f-57564ab0f870" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2kvgPwt7Ek0c2Z10F9q5kFtb44n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Rebasing master",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724169446482</updated>
-      <workItem from="1724169448254" duration="1040000" />
+      <workItem from="1724169448254" duration="1644000" />
     </task>
     <servers />
   </component>
