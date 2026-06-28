@@ -1,0 +1,25 @@
+# Core LangChain 1.0 stack
+langchain
+langchain-core
+langchain-community
+
+# Google Gemini integration (chat models + embeddings)
+langchain-google-genai
+
+# Agents (LangChain 1.0 agents are built on LangGraph)
+langgraph
+
+# Text splitting and common loaders
+langchain-text-splitters
+pypdf        # PDF loading (notebook 07)
+beautifulsoup4  # Web page loading (notebook 07)
+
+# Data validation used for structured output
+pydantic
+
+# Loads your GOOGLE_API_KEY from a .env file
+python-dotenv
+
+# Notebook runtime
+jupyter
+ipykernel
